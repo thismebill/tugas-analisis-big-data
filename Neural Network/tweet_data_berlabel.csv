@@ -1,0 +1,301 @@
+created_at,username,full_text,clean_text,sentimen
+2026-11-01,user0,"Polusi turun, kondisi membaik #udara @u0 http://x.co/0 0",polusi turun kondisi membaik,positif
+2026-11-02,user1,"Udara bersih, langit cerah, lega banget #udara @u1 http://x.co/1 1",udara bersih langit cerah lega banget,positif
+2026-11-03,user2,"Polusi parah, udara berbahaya #udara @u2 http://x.co/2 2",polusi parah udara berbahaya,negatif
+2026-11-04,user3,"Udara bersih, langit cerah, lega banget #udara @u3 http://x.co/3 3",udara bersih langit cerah lega banget,positif
+2026-11-05,user4,Pemerintah rapat soal udara #udara @u4 http://x.co/4 4,pemerintah rapat soal udara,netral
+2026-11-06,user5,Pemerintah rapat soal udara #udara @u5 http://x.co/5 5,pemerintah rapat soal udara,netral
+2026-11-07,user6,Pemerintah rapat soal udara #udara @u6 http://x.co/6 6,pemerintah rapat soal udara,netral
+2026-11-08,user7,Cek ISPU hari ini #udara @u7 http://x.co/7 7,cek ispu hari ini,netral
+2026-11-09,user8,Asap pekat bikin sesak dan batuk #udara @u8 http://x.co/8 8,asap pekat bikin sesak dan batuk,negatif
+2026-11-01,user9,"Udara bersih, langit cerah, lega banget #udara @u9 http://x.co/9 9",udara bersih langit cerah lega banget,positif
+2026-11-02,user10,Pemerintah rapat soal udara #udara @u10 http://x.co/10 10,pemerintah rapat soal udara,netral
+2026-11-03,user11,Kualitas udara hari ini baik dan segar #udara @u11 http://x.co/11 11,kualitas udara hari ini baik dan segar,positif
+2026-11-04,user12,Cek ISPU hari ini #udara @u12 http://x.co/12 12,cek ispu hari ini,netral
+2026-11-05,user13,Cek ISPU hari ini #udara @u13 http://x.co/13 13,cek ispu hari ini,netral
+2026-11-06,user14,Kualitas udara hari ini baik dan segar #udara @u14 http://x.co/14 14,kualitas udara hari ini baik dan segar,positif
+2026-11-07,user15,Pemerintah rapat soal udara #udara @u15 http://x.co/15 15,pemerintah rapat soal udara,netral
+2026-11-08,user16,"Polusi parah, udara berbahaya #udara @u16 http://x.co/16 16",polusi parah udara berbahaya,negatif
+2026-11-09,user17,Asap pekat bikin sesak dan batuk #udara @u17 http://x.co/17 17,asap pekat bikin sesak dan batuk,negatif
+2026-11-01,user18,"Udara bersih, langit cerah, lega banget #udara @u18 http://x.co/18 18",udara bersih langit cerah lega banget,positif
+2026-11-02,user19,"Kabut asap makin memburuk, banyak yang ISPA #udara @u19 http://x.co/19 19",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-03,user20,Kualitas udara hari ini baik dan segar #udara @u20 http://x.co/20 20,kualitas udara hari ini baik dan segar,positif
+2026-11-04,user21,Kualitas udara hari ini baik dan segar #udara @u21 http://x.co/21 21,kualitas udara hari ini baik dan segar,positif
+2026-11-05,user22,Kualitas udara hari ini baik dan segar #udara @u22 http://x.co/22 22,kualitas udara hari ini baik dan segar,positif
+2026-11-06,user23,Info indeks udara pagi #udara @u23 http://x.co/23 23,info indeks udara pagi,netral
+2026-11-07,user24,Kualitas udara hari ini baik dan segar #udara @u24 http://x.co/24 24,kualitas udara hari ini baik dan segar,positif
+2026-11-08,user25,Cek ISPU hari ini #udara @u25 http://x.co/25 25,cek ispu hari ini,netral
+2026-11-09,user26,Asap pekat bikin sesak dan batuk #udara @u26 http://x.co/26 26,asap pekat bikin sesak dan batuk,negatif
+2026-11-01,user27,Cek ISPU hari ini #udara @u27 http://x.co/27 27,cek ispu hari ini,netral
+2026-11-02,user28,Kualitas udara hari ini baik dan segar #udara @u28 http://x.co/28 28,kualitas udara hari ini baik dan segar,positif
+2026-11-03,user29,Info indeks udara pagi #udara @u29 http://x.co/29 29,info indeks udara pagi,netral
+2026-11-04,user30,Asap pekat bikin sesak dan batuk #udara @u30 http://x.co/30 30,asap pekat bikin sesak dan batuk,negatif
+2026-11-05,user31,Pemerintah rapat soal udara #udara @u31 http://x.co/31 31,pemerintah rapat soal udara,netral
+2026-11-06,user32,Pemerintah rapat soal udara #udara @u32 http://x.co/32 32,pemerintah rapat soal udara,netral
+2026-11-07,user33,Info indeks udara pagi #udara @u33 http://x.co/33 33,info indeks udara pagi,netral
+2026-11-08,user34,Asap pekat bikin sesak dan batuk #udara @u34 http://x.co/34 34,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user35,"Kabut asap makin memburuk, banyak yang ISPA #udara @u35 http://x.co/35 35",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-01,user36,Asap pekat bikin sesak dan batuk #udara @u36 http://x.co/36 36,asap pekat bikin sesak dan batuk,negatif
+2026-11-02,user37,Asap pekat bikin sesak dan batuk #udara @u37 http://x.co/37 37,asap pekat bikin sesak dan batuk,negatif
+2026-11-03,user38,Pemerintah rapat soal udara #udara @u38 http://x.co/38 38,pemerintah rapat soal udara,netral
+2026-11-04,user39,"Polusi parah, udara berbahaya #udara @u39 http://x.co/39 39",polusi parah udara berbahaya,negatif
+2026-11-05,user40,Kualitas udara hari ini baik dan segar #udara @u40 http://x.co/40 40,kualitas udara hari ini baik dan segar,positif
+2026-11-06,user41,Cek ISPU hari ini #udara @u41 http://x.co/41 41,cek ispu hari ini,netral
+2026-11-07,user42,Info indeks udara pagi #udara @u42 http://x.co/42 42,info indeks udara pagi,netral
+2026-11-08,user43,"Udara bersih, langit cerah, lega banget #udara @u43 http://x.co/43 43",udara bersih langit cerah lega banget,positif
+2026-11-09,user44,"Polusi turun, kondisi membaik #udara @u44 http://x.co/44 44",polusi turun kondisi membaik,positif
+2026-11-01,user45,"Polusi parah, udara berbahaya #udara @u45 http://x.co/45 45",polusi parah udara berbahaya,negatif
+2026-11-02,user46,"Udara bersih, langit cerah, lega banget #udara @u46 http://x.co/46 46",udara bersih langit cerah lega banget,positif
+2026-11-03,user47,"Kabut asap makin memburuk, banyak yang ISPA #udara @u47 http://x.co/47 47",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-04,user48,Info indeks udara pagi #udara @u48 http://x.co/48 48,info indeks udara pagi,netral
+2026-11-05,user49,Cek ISPU hari ini #udara @u49 http://x.co/49 49,cek ispu hari ini,netral
+2026-11-06,user50,Info indeks udara pagi #udara @u50 http://x.co/50 50,info indeks udara pagi,netral
+2026-11-07,user51,Asap pekat bikin sesak dan batuk #udara @u51 http://x.co/51 51,asap pekat bikin sesak dan batuk,negatif
+2026-11-08,user52,"Polusi parah, udara berbahaya #udara @u52 http://x.co/52 52",polusi parah udara berbahaya,negatif
+2026-11-09,user53,"Polusi parah, udara berbahaya #udara @u53 http://x.co/53 53",polusi parah udara berbahaya,negatif
+2026-11-01,user54,Pemerintah rapat soal udara #udara @u54 http://x.co/54 54,pemerintah rapat soal udara,netral
+2026-11-02,user55,Info indeks udara pagi #udara @u55 http://x.co/55 55,info indeks udara pagi,netral
+2026-11-03,user56,Cek ISPU hari ini #udara @u56 http://x.co/56 56,cek ispu hari ini,netral
+2026-11-04,user57,Kualitas udara hari ini baik dan segar #udara @u57 http://x.co/57 57,kualitas udara hari ini baik dan segar,positif
+2026-11-05,user58,Pemerintah rapat soal udara #udara @u58 http://x.co/58 58,pemerintah rapat soal udara,netral
+2026-11-06,user59,Asap pekat bikin sesak dan batuk #udara @u59 http://x.co/59 59,asap pekat bikin sesak dan batuk,negatif
+2026-11-07,user60,Cek ISPU hari ini #udara @u60 http://x.co/60 60,cek ispu hari ini,netral
+2026-11-08,user61,Cek ISPU hari ini #udara @u61 http://x.co/61 61,cek ispu hari ini,netral
+2026-11-09,user62,"Polusi turun, kondisi membaik #udara @u62 http://x.co/62 62",polusi turun kondisi membaik,positif
+2026-11-01,user63,"Kabut asap makin memburuk, banyak yang ISPA #udara @u63 http://x.co/63 63",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-02,user64,Info indeks udara pagi #udara @u64 http://x.co/64 64,info indeks udara pagi,netral
+2026-11-03,user65,"Kabut asap makin memburuk, banyak yang ISPA #udara @u65 http://x.co/65 65",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-04,user66,"Udara bersih, langit cerah, lega banget #udara @u66 http://x.co/66 66",udara bersih langit cerah lega banget,positif
+2026-11-05,user67,Pemerintah rapat soal udara #udara @u67 http://x.co/67 67,pemerintah rapat soal udara,netral
+2026-11-06,user68,Info indeks udara pagi #udara @u68 http://x.co/68 68,info indeks udara pagi,netral
+2026-11-07,user69,"Udara bersih, langit cerah, lega banget #udara @u69 http://x.co/69 69",udara bersih langit cerah lega banget,positif
+2026-11-08,user70,"Polusi turun, kondisi membaik #udara @u70 http://x.co/70 70",polusi turun kondisi membaik,positif
+2026-11-09,user71,Info indeks udara pagi #udara @u71 http://x.co/71 71,info indeks udara pagi,netral
+2026-11-01,user72,Cek ISPU hari ini #udara @u72 http://x.co/72 72,cek ispu hari ini,netral
+2026-11-02,user73,"Kabut asap makin memburuk, banyak yang ISPA #udara @u73 http://x.co/73 73",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-03,user74,Pemerintah rapat soal udara #udara @u74 http://x.co/74 74,pemerintah rapat soal udara,netral
+2026-11-04,user75,Kualitas udara hari ini baik dan segar #udara @u75 http://x.co/75 75,kualitas udara hari ini baik dan segar,positif
+2026-11-05,user76,Pemerintah rapat soal udara #udara @u76 http://x.co/76 76,pemerintah rapat soal udara,netral
+2026-11-06,user77,Kualitas udara hari ini baik dan segar #udara @u77 http://x.co/77 77,kualitas udara hari ini baik dan segar,positif
+2026-11-07,user78,"Polusi parah, udara berbahaya #udara @u78 http://x.co/78 78",polusi parah udara berbahaya,negatif
+2026-11-08,user79,Cek ISPU hari ini #udara @u79 http://x.co/79 79,cek ispu hari ini,netral
+2026-11-09,user80,"Polusi turun, kondisi membaik #udara @u80 http://x.co/80 80",polusi turun kondisi membaik,positif
+2026-11-01,user81,"Polusi turun, kondisi membaik #udara @u81 http://x.co/81 81",polusi turun kondisi membaik,positif
+2026-11-02,user82,Info indeks udara pagi #udara @u82 http://x.co/82 82,info indeks udara pagi,netral
+2026-11-03,user83,Asap pekat bikin sesak dan batuk #udara @u83 http://x.co/83 83,asap pekat bikin sesak dan batuk,negatif
+2026-11-04,user84,Kualitas udara hari ini baik dan segar #udara @u84 http://x.co/84 84,kualitas udara hari ini baik dan segar,positif
+2026-11-05,user85,Asap pekat bikin sesak dan batuk #udara @u85 http://x.co/85 85,asap pekat bikin sesak dan batuk,negatif
+2026-11-06,user86,Info indeks udara pagi #udara @u86 http://x.co/86 86,info indeks udara pagi,netral
+2026-11-07,user87,Info indeks udara pagi #udara @u87 http://x.co/87 87,info indeks udara pagi,netral
+2026-11-08,user88,Asap pekat bikin sesak dan batuk #udara @u88 http://x.co/88 88,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user89,Cek ISPU hari ini #udara @u89 http://x.co/89 89,cek ispu hari ini,netral
+2026-11-01,user90,Info indeks udara pagi #udara @u90 http://x.co/90 90,info indeks udara pagi,netral
+2026-11-02,user91,"Kabut asap makin memburuk, banyak yang ISPA #udara @u91 http://x.co/91 91",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-03,user92,"Kabut asap makin memburuk, banyak yang ISPA #udara @u92 http://x.co/92 92",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-04,user93,Pemerintah rapat soal udara #udara @u93 http://x.co/93 93,pemerintah rapat soal udara,netral
+2026-11-05,user94,"Polusi parah, udara berbahaya #udara @u94 http://x.co/94 94",polusi parah udara berbahaya,negatif
+2026-11-06,user95,Info indeks udara pagi #udara @u95 http://x.co/95 95,info indeks udara pagi,netral
+2026-11-07,user96,Kualitas udara hari ini baik dan segar #udara @u96 http://x.co/96 96,kualitas udara hari ini baik dan segar,positif
+2026-11-08,user97,Cek ISPU hari ini #udara @u97 http://x.co/97 97,cek ispu hari ini,netral
+2026-11-09,user98,Info indeks udara pagi #udara @u98 http://x.co/98 98,info indeks udara pagi,netral
+2026-11-01,user99,"Polusi turun, kondisi membaik #udara @u99 http://x.co/99 99",polusi turun kondisi membaik,positif
+2026-11-02,user100,Info indeks udara pagi #udara @u100 http://x.co/100 100,info indeks udara pagi,netral
+2026-11-03,user101,Info indeks udara pagi #udara @u101 http://x.co/101 101,info indeks udara pagi,netral
+2026-11-04,user102,Asap pekat bikin sesak dan batuk #udara @u102 http://x.co/102 102,asap pekat bikin sesak dan batuk,negatif
+2026-11-05,user103,Cek ISPU hari ini #udara @u103 http://x.co/103 103,cek ispu hari ini,netral
+2026-11-06,user104,Kualitas udara hari ini baik dan segar #udara @u104 http://x.co/104 104,kualitas udara hari ini baik dan segar,positif
+2026-11-07,user105,Pemerintah rapat soal udara #udara @u105 http://x.co/105 105,pemerintah rapat soal udara,netral
+2026-11-08,user106,"Kabut asap makin memburuk, banyak yang ISPA #udara @u106 http://x.co/106 106",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-09,user107,Info indeks udara pagi #udara @u107 http://x.co/107 107,info indeks udara pagi,netral
+2026-11-01,user108,Asap pekat bikin sesak dan batuk #udara @u108 http://x.co/108 108,asap pekat bikin sesak dan batuk,negatif
+2026-11-02,user109,Info indeks udara pagi #udara @u109 http://x.co/109 109,info indeks udara pagi,netral
+2026-11-03,user110,Cek ISPU hari ini #udara @u110 http://x.co/110 110,cek ispu hari ini,netral
+2026-11-04,user111,Pemerintah rapat soal udara #udara @u111 http://x.co/111 111,pemerintah rapat soal udara,netral
+2026-11-05,user112,"Kabut asap makin memburuk, banyak yang ISPA #udara @u112 http://x.co/112 112",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-06,user113,Cek ISPU hari ini #udara @u113 http://x.co/113 113,cek ispu hari ini,netral
+2026-11-07,user114,"Kabut asap makin memburuk, banyak yang ISPA #udara @u114 http://x.co/114 114",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-08,user115,Kualitas udara hari ini baik dan segar #udara @u115 http://x.co/115 115,kualitas udara hari ini baik dan segar,positif
+2026-11-09,user116,Info indeks udara pagi #udara @u116 http://x.co/116 116,info indeks udara pagi,netral
+2026-11-01,user117,Info indeks udara pagi #udara @u117 http://x.co/117 117,info indeks udara pagi,netral
+2026-11-02,user118,"Kabut asap makin memburuk, banyak yang ISPA #udara @u118 http://x.co/118 118",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-03,user119,Pemerintah rapat soal udara #udara @u119 http://x.co/119 119,pemerintah rapat soal udara,netral
+2026-11-04,user120,Kualitas udara hari ini baik dan segar #udara @u120 http://x.co/120 120,kualitas udara hari ini baik dan segar,positif
+2026-11-05,user121,Asap pekat bikin sesak dan batuk #udara @u121 http://x.co/121 121,asap pekat bikin sesak dan batuk,negatif
+2026-11-06,user122,"Polusi turun, kondisi membaik #udara @u122 http://x.co/122 122",polusi turun kondisi membaik,positif
+2026-11-07,user123,Info indeks udara pagi #udara @u123 http://x.co/123 123,info indeks udara pagi,netral
+2026-11-08,user124,"Polusi turun, kondisi membaik #udara @u124 http://x.co/124 124",polusi turun kondisi membaik,positif
+2026-11-09,user125,"Udara bersih, langit cerah, lega banget #udara @u125 http://x.co/125 125",udara bersih langit cerah lega banget,positif
+2026-11-01,user126,Info indeks udara pagi #udara @u126 http://x.co/126 126,info indeks udara pagi,netral
+2026-11-02,user127,"Polusi parah, udara berbahaya #udara @u127 http://x.co/127 127",polusi parah udara berbahaya,negatif
+2026-11-03,user128,Kualitas udara hari ini baik dan segar #udara @u128 http://x.co/128 128,kualitas udara hari ini baik dan segar,positif
+2026-11-04,user129,"Udara bersih, langit cerah, lega banget #udara @u129 http://x.co/129 129",udara bersih langit cerah lega banget,positif
+2026-11-05,user130,"Udara bersih, langit cerah, lega banget #udara @u130 http://x.co/130 130",udara bersih langit cerah lega banget,positif
+2026-11-06,user131,Kualitas udara hari ini baik dan segar #udara @u131 http://x.co/131 131,kualitas udara hari ini baik dan segar,positif
+2026-11-07,user132,Pemerintah rapat soal udara #udara @u132 http://x.co/132 132,pemerintah rapat soal udara,netral
+2026-11-08,user133,Kualitas udara hari ini baik dan segar #udara @u133 http://x.co/133 133,kualitas udara hari ini baik dan segar,positif
+2026-11-09,user134,"Polusi parah, udara berbahaya #udara @u134 http://x.co/134 134",polusi parah udara berbahaya,negatif
+2026-11-01,user135,Asap pekat bikin sesak dan batuk #udara @u135 http://x.co/135 135,asap pekat bikin sesak dan batuk,negatif
+2026-11-02,user136,"Polusi parah, udara berbahaya #udara @u136 http://x.co/136 136",polusi parah udara berbahaya,negatif
+2026-11-03,user137,"Udara bersih, langit cerah, lega banget #udara @u137 http://x.co/137 137",udara bersih langit cerah lega banget,positif
+2026-11-04,user138,"Polusi turun, kondisi membaik #udara @u138 http://x.co/138 138",polusi turun kondisi membaik,positif
+2026-11-05,user139,"Kabut asap makin memburuk, banyak yang ISPA #udara @u139 http://x.co/139 139",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-06,user140,"Polusi parah, udara berbahaya #udara @u140 http://x.co/140 140",polusi parah udara berbahaya,negatif
+2026-11-07,user141,"Udara bersih, langit cerah, lega banget #udara @u141 http://x.co/141 141",udara bersih langit cerah lega banget,positif
+2026-11-08,user142,"Polusi turun, kondisi membaik #udara @u142 http://x.co/142 142",polusi turun kondisi membaik,positif
+2026-11-09,user143,"Polusi turun, kondisi membaik #udara @u143 http://x.co/143 143",polusi turun kondisi membaik,positif
+2026-11-01,user144,"Polusi parah, udara berbahaya #udara @u144 http://x.co/144 144",polusi parah udara berbahaya,negatif
+2026-11-02,user145,Info indeks udara pagi #udara @u145 http://x.co/145 145,info indeks udara pagi,netral
+2026-11-03,user146,"Polusi turun, kondisi membaik #udara @u146 http://x.co/146 146",polusi turun kondisi membaik,positif
+2026-11-04,user147,"Polusi parah, udara berbahaya #udara @u147 http://x.co/147 147",polusi parah udara berbahaya,negatif
+2026-11-05,user148,"Polusi parah, udara berbahaya #udara @u148 http://x.co/148 148",polusi parah udara berbahaya,negatif
+2026-11-06,user149,Pemerintah rapat soal udara #udara @u149 http://x.co/149 149,pemerintah rapat soal udara,netral
+2026-11-07,user150,"Kabut asap makin memburuk, banyak yang ISPA #udara @u150 http://x.co/150 150",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-08,user151,Pemerintah rapat soal udara #udara @u151 http://x.co/151 151,pemerintah rapat soal udara,netral
+2026-11-09,user152,Pemerintah rapat soal udara #udara @u152 http://x.co/152 152,pemerintah rapat soal udara,netral
+2026-11-01,user153,"Udara bersih, langit cerah, lega banget #udara @u153 http://x.co/153 153",udara bersih langit cerah lega banget,positif
+2026-11-02,user154,Kualitas udara hari ini baik dan segar #udara @u154 http://x.co/154 154,kualitas udara hari ini baik dan segar,positif
+2026-11-03,user155,"Polusi parah, udara berbahaya #udara @u155 http://x.co/155 155",polusi parah udara berbahaya,negatif
+2026-11-04,user156,Cek ISPU hari ini #udara @u156 http://x.co/156 156,cek ispu hari ini,netral
+2026-11-05,user157,"Kabut asap makin memburuk, banyak yang ISPA #udara @u157 http://x.co/157 157",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-06,user158,Cek ISPU hari ini #udara @u158 http://x.co/158 158,cek ispu hari ini,netral
+2026-11-07,user159,Asap pekat bikin sesak dan batuk #udara @u159 http://x.co/159 159,asap pekat bikin sesak dan batuk,negatif
+2026-11-08,user160,"Polusi parah, udara berbahaya #udara @u160 http://x.co/160 160",polusi parah udara berbahaya,negatif
+2026-11-09,user161,"Udara bersih, langit cerah, lega banget #udara @u161 http://x.co/161 161",udara bersih langit cerah lega banget,positif
+2026-11-01,user162,"Polusi parah, udara berbahaya #udara @u162 http://x.co/162 162",polusi parah udara berbahaya,negatif
+2026-11-02,user163,Info indeks udara pagi #udara @u163 http://x.co/163 163,info indeks udara pagi,netral
+2026-11-03,user164,Asap pekat bikin sesak dan batuk #udara @u164 http://x.co/164 164,asap pekat bikin sesak dan batuk,negatif
+2026-11-04,user165,Cek ISPU hari ini #udara @u165 http://x.co/165 165,cek ispu hari ini,netral
+2026-11-05,user166,Kualitas udara hari ini baik dan segar #udara @u166 http://x.co/166 166,kualitas udara hari ini baik dan segar,positif
+2026-11-06,user167,Asap pekat bikin sesak dan batuk #udara @u167 http://x.co/167 167,asap pekat bikin sesak dan batuk,negatif
+2026-11-07,user168,Kualitas udara hari ini baik dan segar #udara @u168 http://x.co/168 168,kualitas udara hari ini baik dan segar,positif
+2026-11-08,user169,Cek ISPU hari ini #udara @u169 http://x.co/169 169,cek ispu hari ini,netral
+2026-11-09,user170,"Polusi turun, kondisi membaik #udara @u170 http://x.co/170 170",polusi turun kondisi membaik,positif
+2026-11-01,user171,Kualitas udara hari ini baik dan segar #udara @u171 http://x.co/171 171,kualitas udara hari ini baik dan segar,positif
+2026-11-02,user172,"Polusi turun, kondisi membaik #udara @u172 http://x.co/172 172",polusi turun kondisi membaik,positif
+2026-11-03,user173,Pemerintah rapat soal udara #udara @u173 http://x.co/173 173,pemerintah rapat soal udara,netral
+2026-11-04,user174,Info indeks udara pagi #udara @u174 http://x.co/174 174,info indeks udara pagi,netral
+2026-11-05,user175,Cek ISPU hari ini #udara @u175 http://x.co/175 175,cek ispu hari ini,netral
+2026-11-06,user176,Info indeks udara pagi #udara @u176 http://x.co/176 176,info indeks udara pagi,netral
+2026-11-07,user177,Asap pekat bikin sesak dan batuk #udara @u177 http://x.co/177 177,asap pekat bikin sesak dan batuk,negatif
+2026-11-08,user178,Info indeks udara pagi #udara @u178 http://x.co/178 178,info indeks udara pagi,netral
+2026-11-09,user179,Pemerintah rapat soal udara #udara @u179 http://x.co/179 179,pemerintah rapat soal udara,netral
+2026-11-01,user180,Asap pekat bikin sesak dan batuk #udara @u180 http://x.co/180 180,asap pekat bikin sesak dan batuk,negatif
+2026-11-02,user181,Info indeks udara pagi #udara @u181 http://x.co/181 181,info indeks udara pagi,netral
+2026-11-03,user182,Kualitas udara hari ini baik dan segar #udara @u182 http://x.co/182 182,kualitas udara hari ini baik dan segar,positif
+2026-11-04,user183,Cek ISPU hari ini #udara @u183 http://x.co/183 183,cek ispu hari ini,netral
+2026-11-05,user184,"Kabut asap makin memburuk, banyak yang ISPA #udara @u184 http://x.co/184 184",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-06,user185,Cek ISPU hari ini #udara @u185 http://x.co/185 185,cek ispu hari ini,netral
+2026-11-07,user186,Kualitas udara hari ini baik dan segar #udara @u186 http://x.co/186 186,kualitas udara hari ini baik dan segar,positif
+2026-11-08,user187,"Polusi parah, udara berbahaya #udara @u187 http://x.co/187 187",polusi parah udara berbahaya,negatif
+2026-11-09,user188,"Polusi turun, kondisi membaik #udara @u188 http://x.co/188 188",polusi turun kondisi membaik,positif
+2026-11-01,user189,Asap pekat bikin sesak dan batuk #udara @u189 http://x.co/189 189,asap pekat bikin sesak dan batuk,negatif
+2026-11-02,user190,Kualitas udara hari ini baik dan segar #udara @u190 http://x.co/190 190,kualitas udara hari ini baik dan segar,positif
+2026-11-03,user191,"Polusi parah, udara berbahaya #udara @u191 http://x.co/191 191",polusi parah udara berbahaya,negatif
+2026-11-04,user192,"Udara bersih, langit cerah, lega banget #udara @u192 http://x.co/192 192",udara bersih langit cerah lega banget,positif
+2026-11-05,user193,"Udara bersih, langit cerah, lega banget #udara @u193 http://x.co/193 193",udara bersih langit cerah lega banget,positif
+2026-11-06,user194,"Polusi parah, udara berbahaya #udara @u194 http://x.co/194 194",polusi parah udara berbahaya,negatif
+2026-11-07,user195,"Polusi parah, udara berbahaya #udara @u195 http://x.co/195 195",polusi parah udara berbahaya,negatif
+2026-11-08,user196,"Polusi turun, kondisi membaik #udara @u196 http://x.co/196 196",polusi turun kondisi membaik,positif
+2026-11-09,user197,Cek ISPU hari ini #udara @u197 http://x.co/197 197,cek ispu hari ini,netral
+2026-11-01,user198,"Polusi parah, udara berbahaya #udara @u198 http://x.co/198 198",polusi parah udara berbahaya,negatif
+2026-11-02,user199,"Polusi turun, kondisi membaik #udara @u199 http://x.co/199 199",polusi turun kondisi membaik,positif
+2026-11-03,user200,Kualitas udara hari ini baik dan segar #udara @u200 http://x.co/200 200,kualitas udara hari ini baik dan segar,positif
+2026-11-04,user201,Info indeks udara pagi #udara @u201 http://x.co/201 201,info indeks udara pagi,netral
+2026-11-05,user202,Kualitas udara hari ini baik dan segar #udara @u202 http://x.co/202 202,kualitas udara hari ini baik dan segar,positif
+2026-11-06,user203,Asap pekat bikin sesak dan batuk #udara @u203 http://x.co/203 203,asap pekat bikin sesak dan batuk,negatif
+2026-11-07,user204,Pemerintah rapat soal udara #udara @u204 http://x.co/204 204,pemerintah rapat soal udara,netral
+2026-11-08,user205,"Polusi turun, kondisi membaik #udara @u205 http://x.co/205 205",polusi turun kondisi membaik,positif
+2026-11-09,user206,Info indeks udara pagi #udara @u206 http://x.co/206 206,info indeks udara pagi,netral
+2026-11-01,user207,Kualitas udara hari ini baik dan segar #udara @u207 http://x.co/207 207,kualitas udara hari ini baik dan segar,positif
+2026-11-02,user208,Cek ISPU hari ini #udara @u208 http://x.co/208 208,cek ispu hari ini,netral
+2026-11-03,user209,Asap pekat bikin sesak dan batuk #udara @u209 http://x.co/209 209,asap pekat bikin sesak dan batuk,negatif
+2026-11-04,user210,"Kabut asap makin memburuk, banyak yang ISPA #udara @u210 http://x.co/210 210",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-05,user211,"Udara bersih, langit cerah, lega banget #udara @u211 http://x.co/211 211",udara bersih langit cerah lega banget,positif
+2026-11-06,user212,Asap pekat bikin sesak dan batuk #udara @u212 http://x.co/212 212,asap pekat bikin sesak dan batuk,negatif
+2026-11-07,user213,Cek ISPU hari ini #udara @u213 http://x.co/213 213,cek ispu hari ini,netral
+2026-11-08,user214,Asap pekat bikin sesak dan batuk #udara @u214 http://x.co/214 214,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user215,Pemerintah rapat soal udara #udara @u215 http://x.co/215 215,pemerintah rapat soal udara,netral
+2026-11-01,user216,"Udara bersih, langit cerah, lega banget #udara @u216 http://x.co/216 216",udara bersih langit cerah lega banget,positif
+2026-11-02,user217,Cek ISPU hari ini #udara @u217 http://x.co/217 217,cek ispu hari ini,netral
+2026-11-03,user218,"Polusi parah, udara berbahaya #udara @u218 http://x.co/218 218",polusi parah udara berbahaya,negatif
+2026-11-04,user219,Info indeks udara pagi #udara @u219 http://x.co/219 219,info indeks udara pagi,netral
+2026-11-05,user220,Pemerintah rapat soal udara #udara @u220 http://x.co/220 220,pemerintah rapat soal udara,netral
+2026-11-06,user221,Kualitas udara hari ini baik dan segar #udara @u221 http://x.co/221 221,kualitas udara hari ini baik dan segar,positif
+2026-11-07,user222,"Kabut asap makin memburuk, banyak yang ISPA #udara @u222 http://x.co/222 222",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-08,user223,Cek ISPU hari ini #udara @u223 http://x.co/223 223,cek ispu hari ini,netral
+2026-11-09,user224,"Polusi parah, udara berbahaya #udara @u224 http://x.co/224 224",polusi parah udara berbahaya,negatif
+2026-11-01,user225,Kualitas udara hari ini baik dan segar #udara @u225 http://x.co/225 225,kualitas udara hari ini baik dan segar,positif
+2026-11-02,user226,"Polusi turun, kondisi membaik #udara @u226 http://x.co/226 226",polusi turun kondisi membaik,positif
+2026-11-03,user227,Asap pekat bikin sesak dan batuk #udara @u227 http://x.co/227 227,asap pekat bikin sesak dan batuk,negatif
+2026-11-04,user228,"Kabut asap makin memburuk, banyak yang ISPA #udara @u228 http://x.co/228 228",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-05,user229,"Polusi turun, kondisi membaik #udara @u229 http://x.co/229 229",polusi turun kondisi membaik,positif
+2026-11-06,user230,"Kabut asap makin memburuk, banyak yang ISPA #udara @u230 http://x.co/230 230",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-07,user231,Cek ISPU hari ini #udara @u231 http://x.co/231 231,cek ispu hari ini,netral
+2026-11-08,user232,Asap pekat bikin sesak dan batuk #udara @u232 http://x.co/232 232,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user233,"Polusi parah, udara berbahaya #udara @u233 http://x.co/233 233",polusi parah udara berbahaya,negatif
+2026-11-01,user234,"Udara bersih, langit cerah, lega banget #udara @u234 http://x.co/234 234",udara bersih langit cerah lega banget,positif
+2026-11-02,user235,Cek ISPU hari ini #udara @u235 http://x.co/235 235,cek ispu hari ini,netral
+2026-11-03,user236,Info indeks udara pagi #udara @u236 http://x.co/236 236,info indeks udara pagi,netral
+2026-11-04,user237,"Kabut asap makin memburuk, banyak yang ISPA #udara @u237 http://x.co/237 237",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-05,user238,Info indeks udara pagi #udara @u238 http://x.co/238 238,info indeks udara pagi,netral
+2026-11-06,user239,Pemerintah rapat soal udara #udara @u239 http://x.co/239 239,pemerintah rapat soal udara,netral
+2026-11-07,user240,Info indeks udara pagi #udara @u240 http://x.co/240 240,info indeks udara pagi,netral
+2026-11-08,user241,Asap pekat bikin sesak dan batuk #udara @u241 http://x.co/241 241,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user242,"Udara bersih, langit cerah, lega banget #udara @u242 http://x.co/242 242",udara bersih langit cerah lega banget,positif
+2026-11-01,user243,Kualitas udara hari ini baik dan segar #udara @u243 http://x.co/243 243,kualitas udara hari ini baik dan segar,positif
+2026-11-02,user244,"Udara bersih, langit cerah, lega banget #udara @u244 http://x.co/244 244",udara bersih langit cerah lega banget,positif
+2026-11-03,user245,"Polusi turun, kondisi membaik #udara @u245 http://x.co/245 245",polusi turun kondisi membaik,positif
+2026-11-04,user246,"Polusi turun, kondisi membaik #udara @u246 http://x.co/246 246",polusi turun kondisi membaik,positif
+2026-11-05,user247,"Polusi turun, kondisi membaik #udara @u247 http://x.co/247 247",polusi turun kondisi membaik,positif
+2026-11-06,user248,Info indeks udara pagi #udara @u248 http://x.co/248 248,info indeks udara pagi,netral
+2026-11-07,user249,Asap pekat bikin sesak dan batuk #udara @u249 http://x.co/249 249,asap pekat bikin sesak dan batuk,negatif
+2026-11-08,user250,"Polusi parah, udara berbahaya #udara @u250 http://x.co/250 250",polusi parah udara berbahaya,negatif
+2026-11-09,user251,"Kabut asap makin memburuk, banyak yang ISPA #udara @u251 http://x.co/251 251",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-01,user252,Info indeks udara pagi #udara @u252 http://x.co/252 252,info indeks udara pagi,netral
+2026-11-02,user253,"Polusi parah, udara berbahaya #udara @u253 http://x.co/253 253",polusi parah udara berbahaya,negatif
+2026-11-03,user254,"Kabut asap makin memburuk, banyak yang ISPA #udara @u254 http://x.co/254 254",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-04,user255,"Kabut asap makin memburuk, banyak yang ISPA #udara @u255 http://x.co/255 255",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-05,user256,"Kabut asap makin memburuk, banyak yang ISPA #udara @u256 http://x.co/256 256",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-06,user257,"Udara bersih, langit cerah, lega banget #udara @u257 http://x.co/257 257",udara bersih langit cerah lega banget,positif
+2026-11-07,user258,"Polusi parah, udara berbahaya #udara @u258 http://x.co/258 258",polusi parah udara berbahaya,negatif
+2026-11-08,user259,Asap pekat bikin sesak dan batuk #udara @u259 http://x.co/259 259,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user260,Pemerintah rapat soal udara #udara @u260 http://x.co/260 260,pemerintah rapat soal udara,netral
+2026-11-01,user261,"Polusi turun, kondisi membaik #udara @u261 http://x.co/261 261",polusi turun kondisi membaik,positif
+2026-11-02,user262,Info indeks udara pagi #udara @u262 http://x.co/262 262,info indeks udara pagi,netral
+2026-11-03,user263,"Udara bersih, langit cerah, lega banget #udara @u263 http://x.co/263 263",udara bersih langit cerah lega banget,positif
+2026-11-04,user264,"Kabut asap makin memburuk, banyak yang ISPA #udara @u264 http://x.co/264 264",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-05,user265,Kualitas udara hari ini baik dan segar #udara @u265 http://x.co/265 265,kualitas udara hari ini baik dan segar,positif
+2026-11-06,user266,Cek ISPU hari ini #udara @u266 http://x.co/266 266,cek ispu hari ini,netral
+2026-11-07,user267,"Udara bersih, langit cerah, lega banget #udara @u267 http://x.co/267 267",udara bersih langit cerah lega banget,positif
+2026-11-08,user268,Cek ISPU hari ini #udara @u268 http://x.co/268 268,cek ispu hari ini,netral
+2026-11-09,user269,"Polusi turun, kondisi membaik #udara @u269 http://x.co/269 269",polusi turun kondisi membaik,positif
+2026-11-01,user270,"Polusi turun, kondisi membaik #udara @u270 http://x.co/270 270",polusi turun kondisi membaik,positif
+2026-11-02,user271,"Kabut asap makin memburuk, banyak yang ISPA #udara @u271 http://x.co/271 271",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-03,user272,"Udara bersih, langit cerah, lega banget #udara @u272 http://x.co/272 272",udara bersih langit cerah lega banget,positif
+2026-11-04,user273,Cek ISPU hari ini #udara @u273 http://x.co/273 273,cek ispu hari ini,netral
+2026-11-05,user274,"Udara bersih, langit cerah, lega banget #udara @u274 http://x.co/274 274",udara bersih langit cerah lega banget,positif
+2026-11-06,user275,Info indeks udara pagi #udara @u275 http://x.co/275 275,info indeks udara pagi,netral
+2026-11-07,user276,Asap pekat bikin sesak dan batuk #udara @u276 http://x.co/276 276,asap pekat bikin sesak dan batuk,negatif
+2026-11-08,user277,"Udara bersih, langit cerah, lega banget #udara @u277 http://x.co/277 277",udara bersih langit cerah lega banget,positif
+2026-11-09,user278,"Polusi parah, udara berbahaya #udara @u278 http://x.co/278 278",polusi parah udara berbahaya,negatif
+2026-11-01,user279,"Kabut asap makin memburuk, banyak yang ISPA #udara @u279 http://x.co/279 279",kabut asap makin memburuk banyak yang ispa,negatif
+2026-11-02,user280,"Polusi parah, udara berbahaya #udara @u280 http://x.co/280 280",polusi parah udara berbahaya,negatif
+2026-11-03,user281,Info indeks udara pagi #udara @u281 http://x.co/281 281,info indeks udara pagi,netral
+2026-11-04,user282,"Udara bersih, langit cerah, lega banget #udara @u282 http://x.co/282 282",udara bersih langit cerah lega banget,positif
+2026-11-05,user283,Pemerintah rapat soal udara #udara @u283 http://x.co/283 283,pemerintah rapat soal udara,netral
+2026-11-06,user284,"Polusi parah, udara berbahaya #udara @u284 http://x.co/284 284",polusi parah udara berbahaya,negatif
+2026-11-07,user285,"Udara bersih, langit cerah, lega banget #udara @u285 http://x.co/285 285",udara bersih langit cerah lega banget,positif
+2026-11-08,user286,Kualitas udara hari ini baik dan segar #udara @u286 http://x.co/286 286,kualitas udara hari ini baik dan segar,positif
+2026-11-09,user287,"Polusi parah, udara berbahaya #udara @u287 http://x.co/287 287",polusi parah udara berbahaya,negatif
+2026-11-01,user288,Kualitas udara hari ini baik dan segar #udara @u288 http://x.co/288 288,kualitas udara hari ini baik dan segar,positif
+2026-11-02,user289,Kualitas udara hari ini baik dan segar #udara @u289 http://x.co/289 289,kualitas udara hari ini baik dan segar,positif
+2026-11-03,user290,"Udara bersih, langit cerah, lega banget #udara @u290 http://x.co/290 290",udara bersih langit cerah lega banget,positif
+2026-11-04,user291,Cek ISPU hari ini #udara @u291 http://x.co/291 291,cek ispu hari ini,netral
+2026-11-05,user292,"Udara bersih, langit cerah, lega banget #udara @u292 http://x.co/292 292",udara bersih langit cerah lega banget,positif
+2026-11-06,user293,Kualitas udara hari ini baik dan segar #udara @u293 http://x.co/293 293,kualitas udara hari ini baik dan segar,positif
+2026-11-07,user294,Asap pekat bikin sesak dan batuk #udara @u294 http://x.co/294 294,asap pekat bikin sesak dan batuk,negatif
+2026-11-08,user295,Asap pekat bikin sesak dan batuk #udara @u295 http://x.co/295 295,asap pekat bikin sesak dan batuk,negatif
+2026-11-09,user296,Cek ISPU hari ini #udara @u296 http://x.co/296 296,cek ispu hari ini,netral
+2026-11-01,user297,"Polusi turun, kondisi membaik #udara @u297 http://x.co/297 297",polusi turun kondisi membaik,positif
+2026-11-02,user298,"Udara bersih, langit cerah, lega banget #udara @u298 http://x.co/298 298",udara bersih langit cerah lega banget,positif
+2026-11-03,user299,Pemerintah rapat soal udara #udara @u299 http://x.co/299 299,pemerintah rapat soal udara,netral
